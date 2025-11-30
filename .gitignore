@@ -1,0 +1,35 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# VSCode files
+.vscode/
+
+# Java compile output
+/out/
+/target/
+/bin/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# OneDrive conflicts
+*.one
+*.lnk
+
+# Temporary files
+*.tmp
+
+# Class files
+*.class
+
+# Build tools
+.gradle/
+build/
+
+# Ignore images in build folders
+out/production/**/icons/
